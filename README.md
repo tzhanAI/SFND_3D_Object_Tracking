@@ -35,5 +35,5 @@ cmake ..
 make
 ./<Executable_File_Name>
 ```
-## D. note
+## D. Note
 OpenCV v 4.5.1 was used in this project
