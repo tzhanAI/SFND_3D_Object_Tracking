@@ -1,5 +1,6 @@
 # SFND_3D_Object_Tracking
 
+## A. Final Result 
 ![alt text](https://github.com/tzhanAI/SFND_3D_Object_Tracking/blob/main/images/FinalResult1stFrame.png)
 
 ## B. Dependencies for Running Locally
@@ -34,5 +35,5 @@ cmake ..
 make
 ./<Executable_File_Name>
 ```
-## note
+## D. note
 OpenCV v 4.5.1 was used in this project
